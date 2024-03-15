@@ -1,0 +1,16 @@
+D:\programm\TestQuestion\Server\Database\bin\Debug\net8.0\Database.deps.json
+D:\programm\TestQuestion\Server\Database\bin\Debug\net8.0\Database.dll
+D:\programm\TestQuestion\Server\Database\bin\Debug\net8.0\Database.pdb
+D:\programm\TestQuestion\Server\Database\bin\Debug\net8.0\Shared.dll
+D:\programm\TestQuestion\Server\Database\bin\Debug\net8.0\Shared.pdb
+D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.sourcelink.json
+D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.csproj.CopyComplete
+D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.dll
+D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\refint\Database.dll
+D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.pdb
+D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\ref\Database.dll
