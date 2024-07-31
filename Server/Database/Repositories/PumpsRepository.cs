@@ -11,8 +11,8 @@ namespace Database.Repositories
 {
     public class PumpsRepository : IPumpsRepository
     {
-        private readonly DatabaseContext _dbContext;
-        public PumpsRepository(DatabaseContext context) 
+        private readonly PumpsContext _dbContext;
+        public PumpsRepository(PumpsContext context) 
         {
             _dbContext = context;    
         }

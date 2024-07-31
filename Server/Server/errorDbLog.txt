@@ -1,0 +1,6 @@
+fail: 03/18/2024 16:55:38.803 RelationalEventId.CommandError[20102] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Failed executing DbCommand (29ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      INSERT INTO "PumpFiles" ("FileId", "PumpId")
+      VALUES (1, 1);
+      INSERT INTO "PumpFiles" ("FileId", "PumpId")
+      VALUES (2, 1);

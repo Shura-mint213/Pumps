@@ -8,27 +8,42 @@ using System.Threading.Tasks;
 
 namespace Shared.Models.Tabels
 {
-    public class Pump
+    /// <summary>
+    /// Модель данных насоса
+    /// </summary>
+    public partial class Pump
     {
+        /// <summary>
+        /// ID насоса
+        /// </summary>
         [Key]
         public long PumpId { get; set; }
+        /// <summary>
+        /// Название насоса
+        /// </summary>
         [MaxLength(100)]
-        public string Name { get; set;}
+        public string Name { get; set; }
+        /// <summary>
+        /// Максимальное давление
+        /// </summary>
         public float MaxPressure { get; set; }
-        public float LiquidTemperature { get; set; }
+        /// <summary>
+        /// Максимальное допустимая температура жидкости
+        /// </summary>
+        public float MaxLiquidTemperature { get; set; }
+        /// <summary>
+        /// Вес 
+        /// </summary>
         public float Weight { get; set; }
-        public long MaterialHousingId { get; set; }
-        public long ImpellerMaterialId { get; set; }
+        /// <summary>
+        /// Описание
+        /// </summary>
         public string? Description { get; set; }
-        public long? PumpPhotos { get; set; }
+        /// <summary>
+        /// Стоимость
+        /// </summary>
         public decimal Price { get; set; }
-        public int MotorId { get; set; }
-        [ForeignKey(nameof(MotorId))]
-        public Motor? Motors { get; set; }
-        public List<PumpDetail> PumpDetails { get; set; } = new();
-        //[ForeignKey(nameof(MaterialHousingId))]
-        //public Material? MaterialsHousing { get; set; }
-        //[ForeignKey(nameof(ImpellerMaterialId))]
-        //public Material? ImpellerMaterial { get; set; }
+        public virtual List<PumpDetail> PumpDetails { get; set; } = new();
+        public virtual List<PumpFile> PumpFiles { get; set; } = new();
     }
 }

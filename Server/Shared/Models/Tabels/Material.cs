@@ -8,16 +8,27 @@ using System.Threading.Tasks;
 
 namespace Shared.Models.Tabels
 {
+    /// <summary>
+    /// Модель данных материала
+    /// </summary>
     [Table("Materials")]
-    public class Material
+    public partial class Material
     {
+        /// <summary>
+        /// ID материала
+        /// </summary>
         [Key]
-        public long  MaterialId { get; set; }
+        public long MaterialId { get; set; }
+        /// <summary>
+        /// Название материала
+        /// </summary>
         [MaxLength(100)]
         [Required]
         public string Name { get; set; }
+        /// <summary>
+        /// Описание материала
+        /// </summary>
         public string? Description { get; set; }
-        [NotMapped]
-        public List<Pump> Pumps { get; set; } = new();
+        public virtual List<PumpDetail> PumpDetails { get; set; } = new()!;
     }
 }

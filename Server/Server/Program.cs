@@ -1,4 +1,7 @@
 
+using Database;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Server.Services;
 using Shared.Statics;
 
@@ -8,39 +11,25 @@ namespace Server
     {
         public static void Main(string[] args)
         {
-            var builder = WebApplication.CreateBuilder(args);
-
-            SettingsLoad(builder.Configuration);
-            // Add services to the container.
-
-            builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
-            builder.Services.AddRepositories();
-
-            var app = builder.Build();
-
-            // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
-
-            app.UseHttpsRedirection();
-
-            app.UseAuthorization();
-
-
-            app.MapControllers();
-
-            app.Run();
+            Host.CreateDefaultBuilder(args)
+                .ConfigureAppConfiguration((hostingContext, config) =>
+                {                    
+                    SettingsLoad(config);
+                })
+                .ConfigureWebHostDefaults(webBuilder =>
+                {
+                    webBuilder.UseStartup<Startup>();
+                }).Build().Run();
         }
-        private static void SettingsLoad(IConfiguration configuration)
+
+        /// <summary>
+        /// Метод устанавеливает настройки из <paramref name="confBuilder"/>
+        /// </summary>
+        /// <param name="confBuilder">Тип для построения конфигурации</param>
+        public static void SettingsLoad(IConfigurationBuilder confBuilder)
         {
-            Settings.ConnectionString = configuration["ConnectionStrings"];
+            IConfigurationRoot confRoot = confBuilder.Build();
+            Settings.ConnectionString = confRoot.GetValue<string>("ConnectionStrings:MSSql")!;
         }
     }
-
 }

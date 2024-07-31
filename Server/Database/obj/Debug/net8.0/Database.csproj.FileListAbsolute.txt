@@ -1,4 +1,5 @@
 D:\programm\TestQuestion\Server\Database\bin\Debug\net8.0\Database.deps.json
+D:\programm\TestQuestion\Server\Database\bin\Debug\net8.0\Database.runtimeconfig.json
 D:\programm\TestQuestion\Server\Database\bin\Debug\net8.0\Database.dll
 D:\programm\TestQuestion\Server\Database\bin\Debug\net8.0\Database.pdb
 D:\programm\TestQuestion\Server\Database\bin\Debug\net8.0\Shared.dll
@@ -9,8 +10,9 @@ D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.AssemblyInfoI
 D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
 D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
 D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.sourcelink.json
-D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.csproj.CopyComplete
+D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.csproj.Up2Date
 D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.dll
 D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\refint\Database.dll
 D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.pdb
+D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\Database.genruntimeconfig.cache
 D:\programm\TestQuestion\Server\Database\obj\Debug\net8.0\ref\Database.dll

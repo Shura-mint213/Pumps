@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programm\\TestQuestion\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E0A4ED-8D38-4C4A-A6A8-B90729B27661}|Database\\Database.csproj|d:\\programm\\testquestion\\server\\database\\pumpscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E0A4ED-8D38-4C4A-A6A8-B90729B27661}|Database\\Database.csproj|solutionrelative:database\\pumpscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|d:\\programm\\testquestion\\server\\shared\\models\\tabels\\pump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|solutionrelative:shared\\models\\tabels\\pump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|d:\\programm\\testquestion\\server\\shared\\models\\tabels\\sourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|solutionrelative:shared\\models\\tabels\\sourcetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|d:\\programm\\testquestion\\server\\shared\\models\\tabels\\pumpdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|solutionrelative:shared\\models\\tabels\\pumpdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|d:\\programm\\testquestion\\server\\shared\\models\\tabels\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|solutionrelative:shared\\models\\tabels\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|d:\\programm\\testquestion\\server\\shared\\models\\tabels\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|solutionrelative:shared\\models\\tabels\\material.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|d:\\programm\\testquestion\\server\\shared\\models\\tabels\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|solutionrelative:shared\\models\\tabels\\fileextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|d:\\programm\\testquestion\\server\\shared\\models\\tabels\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|solutionrelative:shared\\models\\tabels\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|d:\\programm\\testquestion\\server\\shared\\models\\tabels\\pumpfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A020453-487A-4B78-8736-10EC72DB4516}|Shared\\Shared.csproj|solutionrelative:shared\\models\\tabels\\pumpfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6083972B-3430-473D-BEDD-BA49720413B4}|Server\\Server.csproj|d:\\programm\\testquestion\\server\\server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6083972B-3430-473D-BEDD-BA49720413B4}|Server\\Server.csproj|solutionrelative:server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6083972B-3430-473D-BEDD-BA49720413B4}|Server\\Server.csproj|d:\\programm\\testquestion\\server\\server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6083972B-3430-473D-BEDD-BA49720413B4}|Server\\Server.csproj|solutionrelative:server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6083972B-3430-473D-BEDD-BA49720413B4}|Server\\Server.csproj|d:\\programm\\testquestion\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6083972B-3430-473D-BEDD-BA49720413B4}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6083972B-3430-473D-BEDD-BA49720413B4}|Server\\Server.csproj|d:\\programm\\testquestion\\server\\server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6083972B-3430-473D-BEDD-BA49720413B4}|Server\\Server.csproj|solutionrelative:server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6083972B-3430-473D-BEDD-BA49720413B4}|Server\\Server.csproj|d:\\programm\\testquestion\\server\\server\\controllers\\pumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6083972B-3430-473D-BEDD-BA49720413B4}|Server\\Server.csproj|solutionrelative:server\\controllers\\pumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E0A4ED-8D38-4C4A-A6A8-B90729B27661}|Database\\Database.csproj|d:\\programm\\testquestion\\server\\database\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4E0A4ED-8D38-4C4A-A6A8-B90729B27661}|Database\\Database.csproj|solutionrelative:database\\database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6083972B-3430-473D-BEDD-BA49720413B4}|Server\\Server.csproj|d:\\programm\\testquestion\\server\\server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6083972B-3430-473D-BEDD-BA49720413B4}|Server\\Server.csproj|solutionrelative:server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PumpsContext.cs",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Database\\PumpsContext.cs",
+              "RelativeDocumentMoniker": "Database\\PumpsContext.cs",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Database\\PumpsContext.cs",
+              "RelativeToolTip": "Database\\PumpsContext.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAiwJ8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:49:22.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PumpDetail.cs",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\PumpDetail.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Tabels\\PumpDetail.cs",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\PumpDetail.cs",
+              "RelativeToolTip": "Shared\\Models\\Tabels\\PumpDetail.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:44:10.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SourceType.cs",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\SourceType.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Tabels\\SourceType.cs",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\SourceType.cs",
+              "RelativeToolTip": "Shared\\Models\\Tabels\\SourceType.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIAwwB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:44:23.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pump.cs",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\Pump.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Tabels\\Pump.cs",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\Pump.cs*",
+              "RelativeToolTip": "Shared\\Models\\Tabels\\Pump.cs*",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:43:31.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Detail.cs",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\Detail.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Tabels\\Detail.cs",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\Detail.cs*",
+              "RelativeToolTip": "Shared\\Models\\Tabels\\Detail.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:44:15.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Material.cs",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\Material.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Tabels\\Material.cs",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\Material.cs",
+              "RelativeToolTip": "Shared\\Models\\Tabels\\Material.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:51:12.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileExtension.cs",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\FileExtension.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Tabels\\FileExtension.cs",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\FileExtension.cs",
+              "RelativeToolTip": "Shared\\Models\\Tabels\\FileExtension.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:37:04.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "File.cs",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\File.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Tabels\\File.cs",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\File.cs*",
+              "RelativeToolTip": "Shared\\Models\\Tabels\\File.cs*",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA3wC4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T13:46:45.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PumpFile.cs",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\PumpFile.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Tabels\\PumpFile.cs",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Shared\\Models\\Tabels\\PumpFile.cs",
+              "RelativeToolTip": "Shared\\Models\\Tabels\\PumpFile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:13:47.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Server\\Startup.cs",
+              "RelativeDocumentMoniker": "Server\\Startup.cs",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Server\\Startup.cs",
+              "RelativeToolTip": "Server\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:42:31.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Server\\appsettings.Development.json",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Server\\appsettings.Development.json",
+              "RelativeToolTip": "Server\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T11:51:37.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB8AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:13:14.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Server\\Dockerfile",
+              "RelativeDocumentMoniker": "Server\\Dockerfile",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Server\\Dockerfile",
+              "RelativeToolTip": "Server\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-30T14:53:27.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PumController.cs",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Server\\Controllers\\PumController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\PumController.cs",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Server\\Controllers\\PumController.cs",
+              "RelativeToolTip": "Server\\Controllers\\PumController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T12:10:23.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Database",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Database\\Database.csproj",
+              "RelativeDocumentMoniker": "Database\\Database.csproj",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Database\\Database.csproj*",
+              "RelativeToolTip": "Database\\Database.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-30T13:20:17.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\programm\\TestQuestion\\Server\\Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Server\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\programm\\TestQuestion\\Server\\Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T11:55:11.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

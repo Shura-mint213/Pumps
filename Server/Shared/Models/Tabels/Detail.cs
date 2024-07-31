@@ -9,14 +9,18 @@ using System.Threading.Tasks;
 namespace Shared.Models.Tabels
 {
     [Table("Details")]
-    public class Detail
+    public partial class Detail
     {
+        /// <summary>
+        /// ID детали
+        /// </summary>
         [Key]
-        public int PumpDetailId { get; set; }
+        public int DetailId { get; set; }
+        /// <summary>
+        /// Название детали
+        /// </summary>
         [MaxLength(100)]
         public string Name { get; set; }
-        public long MaterialId { get; set; }
-        public Material? Material { get; set; } 
-        public List<PumpDetail> PumpDetails { get; set; } = new();
+        public virtual List<PumpDetail> PumpDetails { get; set; } = new();
     }
 }
